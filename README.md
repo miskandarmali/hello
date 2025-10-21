@@ -10,5 +10,8 @@ The list is alphabetized by lamguage.
 # A
 **- Afrikaans** - Hallo
 
+# K
+**- Korean** - Ahanyesayo
+
 # M
 **- Malay** - Selamat pagi
