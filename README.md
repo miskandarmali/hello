@@ -10,6 +10,9 @@ The list is alphabetized by lamguage.
 # A
 **- Afrikaans** - Hallo
 
+# C
+**- Chinese** - Ni hou
+
 # I
 **- India** - Vanakam
 
